@@ -1,5 +1,0 @@
-{"msg":"init","dagFile":"artifacts/tundra.dag","targets":[]}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"all_tundra_nodes","enqueuedNodeIndex":0}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Il2Cpp /Users/rmasiso/Documents/Tutorials/BirdFamily/BirdFamily/Library/Il2cppBuildCache/iOS/il2cppOutput/Data/Metadata/global-metadata.dat","enqueuedNodeIndex":1,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Copy Additional C++ File /Users/rmasiso/Documents/Tutorials/BirdFamily/BirdFamily/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp","enqueuedNodeIndex":2,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
-{"msg":"enqueueNode","enqueuedNodeAnnotation":"Copy Additional C++ File /Users/rmasiso/Documents/Tutorials/BirdFamily/BirdFamily/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp","enqueuedNodeIndex":3,"enqueueingNodeAnnotation":"all_tundra_nodes","enqueueingNodeIndex":0}
