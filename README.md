@@ -2,4 +2,4 @@
 
 code for the "How to make an Augmented Reality App in 2022" video series.
 
-test
+Unity Version: 2021.1.17f1
