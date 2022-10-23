@@ -29,4 +29,4 @@ How To Make An Augmented Reality App (Part 6): Particle Systems in Unity for Aug
 https://youtu.be/1Y_NUW1349g
 
 How To Make An Augmented Reality App (Part 7): Downloading and Running the Project Files:  
-[SOON]
+https://youtu.be/3QyWpN2Z7Sk
